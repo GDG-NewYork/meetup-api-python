@@ -5,5 +5,6 @@ All you have to do is 1) get a api key from meetup (https://secure.meetup.com/me
 
 Optionally, you can load into Google BigQuery and use a visualization tools such as redash.io (requires a Google Account and a BigQuery project).   For examples of this, see https://bigquery.cloud.google.com/table/personal-real-estate:gdg.meetup and http://demo.redash.io/queries/156/source#199 (requires Google Account and BigQuery project)
 
+![image1](https://raw.githubusercontent.com/GDG-NewYork/meetup-api-python/master/images/redash_charts_2015-03-02T05_00_22.903.png "GDG Meetup RSVP Chart over time")
 
 
